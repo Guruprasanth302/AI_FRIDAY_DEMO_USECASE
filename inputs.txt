@@ -8,3 +8,13 @@ def greet(name):
 def calculateArea(radius):
     pi = 3.14
     return pi * radius * radius
+
+
+
+1. Variable names should follow snake_case.
+2. Function names should follow snake_case.
+3. Functions should have docstrings.
+4. Ensure there are no unused variables or imports.
+5. Code should not contain magic numbers (like 3.14).
+
+
