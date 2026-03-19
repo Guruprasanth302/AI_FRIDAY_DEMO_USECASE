@@ -1,0 +1,10 @@
+def add(a, b):
+    result = a + b
+    return result
+
+def greet(name):
+    print("Hello, " + name)
+
+def calculateArea(radius):
+    pi = 3.14
+    return pi * radius * radius
